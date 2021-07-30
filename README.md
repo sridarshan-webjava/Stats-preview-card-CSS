@@ -34,8 +34,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sridarshan-webjava/Stats-preview-card-CSS)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/sridarshan-webjava/Stats-preview-card-CSS)
+- Live Site URL: [Live Site](https://sridarshan-webjava.github.io/Stats-preview-card-CSS/)
 
 ## My process
 
@@ -81,5 +81,5 @@ Major Key Learnings
 
 ## Author
 
-- Website - [Sridarshan](https://www.your-site.com)
+- Website - [Sridarshan](https://sridarshan-webjava.github.io/Stats-preview-card-CSS/)
 - Frontend Mentor - [@sridarshan-webjava](https://www.frontendmentor.io/profile/sridarshan-webjava)
