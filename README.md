@@ -24,13 +24,17 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View
+
 ![](./Screenshot-Desktop.png)
+
+Mobile View
 
 ![](./Screenshot-Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/sridarshan-webjava/Stats-preview-card-CSS)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
